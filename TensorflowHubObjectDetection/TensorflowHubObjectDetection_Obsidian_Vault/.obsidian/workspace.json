@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how to use tensorflow docker image for running my codes.md",
+                "file": "Start Note to learn how to use Tensorflow Hub models for object detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how to use tensorflow docker image for running my codes.md",
+                "file": "Start Note to learn how to use Tensorflow Hub models for object detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how to use tensorflow docker image for running my codes.md",
+                "file": "Start Note to learn how to use Tensorflow Hub models for object detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how to use tensorflow docker image for running my codes.md"
+                "file": "Start Note to learn how to use Tensorflow Hub models for object detection.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "e94b46bbb5047899",
   "lastOpenFiles": [
-    "Start Note to learn how to use Tensorflow Hub models for object detection.md",
     "how to use tensorflow docker image for running my codes.md",
+    "Start Note to learn how to use Tensorflow Hub models for object detection.md",
     "this.md"
   ]
 }
