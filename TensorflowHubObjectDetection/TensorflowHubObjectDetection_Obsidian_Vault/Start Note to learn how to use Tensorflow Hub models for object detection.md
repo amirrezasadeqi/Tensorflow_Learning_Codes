@@ -6,4 +6,6 @@ Now we have the development setup ready. The first thing I want to do is just ru
 Now, we are at the position that we can run the example code and see the inference outputs in the jupyter notebook. For now our task is:
 - [ ] Diving deep into the example code and learn every bit of that!
 After that we can go further and see how we can use our custom models and so on. So in the future ...
+Let's go and learn it!
+
 
